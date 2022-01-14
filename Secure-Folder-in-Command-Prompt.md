@@ -32,4 +32,4 @@ echo Private created successfully
 goto End
 :End
 
-[Secure-Folder-in-Command-Prompt.txt](https://github.com/GITMaster-code/Secure-Folder-in-Command-Prompt/files/7872133/Batch.Format.Folder.Locker.txt)
+https://github.com/GITMaster-code/Secure-Folder-in-Command-Prompt/files/7872133/Batch.Format.Folder.Locker.txt  -- copy and paste this libk to get the code
